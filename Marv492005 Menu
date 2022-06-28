@@ -1,0 +1,9 @@
+@echo off
+
+:start
+cls
+title Welcome to Marvs Menu
+start https://github.com/ANGECRACKT/Marv-s-Menu/blob/main/Marv's%20Menu.bat
+start https://discord.gg/HNbEbUPw
+start https://discord.gg/mm8NK4jP
+goto start
